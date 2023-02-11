@@ -1,0 +1,3 @@
+sonar.organization=github_zsuzsa28
+sonar.projectKey=Zsuzsa28_spring-petclinic
+sonar.sources=.
